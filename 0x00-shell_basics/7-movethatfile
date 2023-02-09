@@ -1,4 +1,7 @@
 #!/bin/bash
 mv /tmp/betty /tmp/my_first_directory
+<<<<<<< HEAD
 \
    
+=======
+>>>>>>> 9e59512287c17e80a844f8fe9e6f11628fa24feb
